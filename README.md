@@ -136,14 +136,16 @@ This project demonstrates how machine learning can be used to forecast sales usi
 
 ---
 
-## Technologies Used
+## Tech Stack
 
-* Python
-* Pandas, NumPy
-* Matplotlib, Seaborn
-* Scikit-learn
-* Statsmodels
-
+| Category | Tools |
+|---------|------|
+| Language | Python |
+| Data Processing | Pandas, NumPy |
+| Visualization | Matplotlib, Seaborn |
+| Machine Learning | Scikit-learn |
+| Time Series | Statsmodels |
+| Environment | Jupyter Notebook |
 ---
 
 ## How to Run

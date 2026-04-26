@@ -180,4 +180,5 @@ This project was completed as part of a Machine Learning Internship task.
 ---
 
 ## Connect
+linkedin - https://www.linkedin.com/in/ankit-kumar-150ab12a6/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2BKthEkhhS%2F6gYj%2FteF1JZQ%3D%3D
 

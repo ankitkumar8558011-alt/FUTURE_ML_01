@@ -164,40 +164,6 @@ This project demonstrates how machine learning can be used to forecast sales usi
 4. Run all cells
 
 ---
-## Screenshots
-
-### Daily Sales Trend
-
-![Sales Trend](images/sales_trend.png)
-
-### Sales Distribution
-
-![Sales Distribution](images/sales_distribution.png)
-
-### Correlation Heatmap
-
-![Correlation Heatmap](images/correlation_heatmap.png)
-
-### Seasonality Heatmap (Day vs Month)
-
-![Seasonality](images/seasonality_heatmap.png)
-
-### Pair Plot Analysis
-
-![Pairplot](images/pairplot.png)
-
-### Seasonal Decomposition
-
-![Decomposition](images/decomposition.png)
-
-### Actual vs Predicted Sales
-
-![Model Performance](images/actual_vs_predicted.png)
-
-### Sales Forecast
-
-![Forecast](images/forecast.png)
-
 
 ## Future Improvements
 

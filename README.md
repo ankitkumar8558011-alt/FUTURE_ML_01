@@ -6,7 +6,7 @@ This project focuses on predicting future sales using historical retail transact
 
 ---
 
-## Problem Statement
+## Problem Statement 
 
 The objective of this project is to forecast future sales based on historical data. Accurate forecasting helps businesses manage inventory, reduce losses, and improve operational efficiency.
 

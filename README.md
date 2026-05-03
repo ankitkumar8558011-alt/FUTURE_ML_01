@@ -175,7 +175,7 @@ This project demonstrates how machine learning can be used to forecast sales usi
 
 ## Acknowledgement
 
-This project was completed as part of a Machine Learning Internship task.
+This project was completed as part of a Machine Learning Internship.
 
 ---
 
